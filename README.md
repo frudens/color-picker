@@ -14,6 +14,8 @@ Thank you from the bottom of my heart.
 
 ## demo
 
+- This file does not use any JavaScript or Webviewer.
+
 ![demo](./image/frudens_color_picker.gif "demo")
 
 
